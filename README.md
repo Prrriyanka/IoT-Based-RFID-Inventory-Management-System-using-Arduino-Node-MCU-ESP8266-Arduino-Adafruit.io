@@ -18,7 +18,7 @@ The main objective of this project is to make IoT Based RFID Inventory Managemen
 <a href="https://drive.google.com/drive/folders/16V5cI8NvSfmOW_UIq7wuA8P2WyMTvHN7?usp=sharing">Link</a>
 
 <b> Circuit Diagram</b>
-<img src="ckt.png" alt="Error">
+<img src="ckt.PNG" alt="Error">
  
  
  <h2><b><i>Thank You<i></b><h2>
